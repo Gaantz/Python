@@ -9,4 +9,4 @@ Aprendiendo a desarrollar en ***PYTHON***
 
 ### Assets
 
-* ![Alt text](/assets/terminal.png?raw=true "Terminal")
+* ![image](/assets/terminal?raw=true "Terminal")
