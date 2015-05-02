@@ -25,4 +25,13 @@ print "OPL es : " + tipo_variable
 #Conversiones
 print "OPL to 'int' = " + str(int(operacion_larga))
 print "10 a float() --> " + str(float(10))
-print "10 a long() --> " + str(long(10)) 
+print "10 a long() --> " + str(long(10))
+
+#str - obtiene el valor absoluto
+print "Valor absoluto de 10 : " , str(abs(10))
+print "Valor absoluto de 10 .0 : " , str(abs(10.0))
+
+#redondear un numero con round()
+print "Float a (3) decimales : " , round(operacion_larga,3)
+print "Float a (2) decimales : " , round(operacion_larga,2)
+print "Float a (1) decimales : " , round(operacion_larga,1)
