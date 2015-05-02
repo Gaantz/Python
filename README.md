@@ -6,3 +6,7 @@ Aprendiendo a desarrollar en ***PYTHON***
 
 * **./archivo.py**
 * **python archivo.py**
+
+### Assets
+
+* ![Alt text](/assets/terminal.png?raw=true "Terminal")
