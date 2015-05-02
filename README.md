@@ -1,7 +1,8 @@
 # Python
 
-Aprendiendo a desarrollar en <p>PYTHON</p>
+Aprendiendo a desarrollar en **PYTHON**
 
-## Para correr un archivo .py en el "Terminal de OS-X" use :
-* "./archivo.py"
-* "python archivo.py"
+### Para correr un archivo ".py" en el "Terminal de OS-X" use :
+
+* **./archivo.py**
+* *python archivo.py*
