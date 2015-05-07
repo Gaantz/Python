@@ -1,5 +1,6 @@
-#Cadenas en Python
+# -*- coding: utf-8 -*-
 
+#Cadenas en Python
 cadena_a = "Simple String"
 print cadena_a
 
@@ -38,3 +39,6 @@ print palabra[4]
 print palabra[:5]
 print palabra[5:]
 print palabra[1:3]
+
+#Tamaño de una cadena
+print len(cadena_larga)
